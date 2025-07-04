@@ -1,0 +1,1 @@
+../../../Target Support Files/ExpoNativeExtensions/ExpoNativeExtensions-umbrella.h
