@@ -1,6 +1,0 @@
-module Pods_expoPrivy {
-  umbrella header "Pods-expoPrivy-umbrella.h"
-
-  export *
-  module * { export * }
-}
